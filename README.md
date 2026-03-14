@@ -70,16 +70,6 @@ https://github.com/aadi1094/attendance-management-face-recognition
 
 ---
 
-## 🚀 SpaceX Data Analysis Project
-**Tech:** Python, Jupyter Notebook, Pandas  
-
-Analyzed SpaceX launch data to identify success patterns and visualize trends using Python data science tools.
-
-🔗 Repo  
-https://github.com/aadi1094/spacex-coursera-project
-
----
-
 ## 🏋️ ELEWEIGHT Fitness Platform
 **Tech:** React, JavaScript, Node.js  
 
