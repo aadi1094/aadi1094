@@ -14,7 +14,7 @@
 
 ### 📊 Stats & Streak
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aadi1094&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&year=2026" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadi1094&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues&year=2026&contribs_title=2026%20commits" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1094&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi1094&theme=tokyonight&hide_border=true" height="165"/>
 </p>
