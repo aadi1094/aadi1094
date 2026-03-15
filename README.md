@@ -58,61 +58,11 @@
 
 ---
 
-# 🚀 Featured Projects
+# 💡 Quote of the Day
 
-## 📸 Attendance Management System (Face Recognition)
-**Tech:** Python, OpenCV, Machine Learning  
-
-Automated attendance system that identifies users using facial recognition and records attendance in real time.
-
-🔗 Repo  
-https://github.com/aadi1094/attendance-management-face-recognition
-
----
-
-## 🚀 SpaceX Data Analysis Project
-**Tech:** Python, Jupyter Notebook, Pandas  
-
-Analyzed SpaceX launch data to identify success patterns and visualize trends using Python data science tools.
-
-🔗 Repo  
-https://github.com/aadi1094/spacex-coursera-project
-
----
-
-## 🏋️ ELEWEIGHT Fitness Platform
-**Tech:** React, JavaScript, Node.js  
-
-A web platform for managing workout routines and exercise plans with a clean responsive UI.
-
-🌐 Live  
-https://eleweight-frontend.vercel.app
-
-🔗 Repo  
-https://github.com/aadi1094/eleweight-frontend
-
----
-
-## 💬 Real-Time Chat Application
-**Tech:** TypeScript, Node.js, MongoDB, Socket.io  
-
-A real-time messaging application with authentication and instant message delivery.
-
-🌐 Live  
-https://realtime-chat-app.vercel.app
-
-🔗 Repo  
-https://github.com/aadi1094/realtime-chat-app
-
----
-
-## 🤖 Python ChatBot
-**Tech:** Python, NLP basics  
-
-A chatbot that responds to user queries using simple NLP logic.
-
-🔗 Repo  
-https://github.com/aadi1094/chatbot-project
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&category=programming" alt="Daily Quote" />
+</p>
 
 ---
 
@@ -120,7 +70,7 @@ https://github.com/aadi1094/chatbot-project
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadi1094&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadi1094&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi1094&theme=tokyonight&hide_border=true" height="160"/>
 
@@ -128,7 +78,7 @@ https://github.com/aadi1094/chatbot-project
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1094&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1094&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 
 </p>
 
